@@ -23,9 +23,9 @@ import re
 
 # 1. Read data
 products_raw = pd.read_csv("ProductRaw.csv")
-reviews_raw = pd.read_csv("ReviewRaw.csv")
+#reviews_raw = pd.read_csv("ReviewRaw.csv")
 products = pd.read_csv("Product_clean.csv")
-reviews = pd.read_csv("Review_clean.csv")
+#reviews = pd.read_csv("Review_clean.csv")
 
 #--------------
 # GUI
